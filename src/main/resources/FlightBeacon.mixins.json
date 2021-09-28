@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.mattdokn.flightbeacon.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "BeaconBlockEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
